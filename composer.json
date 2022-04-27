@@ -21,7 +21,7 @@
 		"fakerphp/faker" : "^1.15",
 		"fig/http-message-util" : "^1.1",
 		"franzose/doctrine-bulk-insert" : "^1.1",
-		"lulco/phoenix" : "^1.5",
+		"lulco/phoenix" : "^2.2",
 		"monolog/monolog" : "^2",
 		"nyholm/psr7" : "^1.4",
 		"nyholm/psr7-server" : "^1.0",
